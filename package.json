@@ -1,0 +1,16 @@
+{
+  "name": "as1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://dutdavid.github.io/as1",
+  "dependensie": {
+    "gh-pages": "^1.2.0"
+  }
+}
